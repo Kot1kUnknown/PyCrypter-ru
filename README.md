@@ -1,2 +1,4 @@
 # PyCrypter-ru
-Криптер на python(русский алфовит)
+Python Crypter - RUSSIAN VERSION
+
+:)
